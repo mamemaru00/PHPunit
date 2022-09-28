@@ -11,12 +11,7 @@ class SampleTest extends TestCase
      *
      * @return void
      */
-    public function test_sample1()
-    {
-        $this->assertTrue(true);
-    }
-
-    public function test_sample2()
+    public function test_sample3()
     {
         $this->assertTrue(true);
     }
