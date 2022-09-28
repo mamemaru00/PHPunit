@@ -9,7 +9,7 @@ class SampleTest extends TestCase
     /**
      * A basic unit test example.
      *
-     * @return void
+     * @group one
      */
     public function test_sample1()
     {
